@@ -1,0 +1,6 @@
+# mac stuff
+.DS_Store
+.idea/
+
+# virtual Env
+venv/ 
