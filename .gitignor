@@ -3,4 +3,10 @@
 .idea/
 
 # virtual Env
-venv/ 
+venv/
+
+# Database
+db.sqlite3
+
+# Migration
+blog/migrations/
